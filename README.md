@@ -45,4 +45,7 @@ https://www.invicti.com/plp/invicti-scanner/?utm_term=invicti%20scanner&utm_camp
 Invicti is a web application security scanner that is capable of finding vulnerabilities in services or web applications, SQL Injections, and XSS. Its price range starts from $4,500 to $26,600. Additionally, it is open source. 
 
 
+Ellie LeFebvre
+https://www.qualys.com/
 
+Qualys is a software that helps business stay protected against cyber attacks and helps mitigate risks. It is not open source and it has multiple functions including asset management, vulnerability & configuration management, risk remediation, threat detection & response, and compliance. It is free for 30 days and probably has some sort of paid subscription after that. It uses a service called TotalCloud 2.0 with TruRisk Insights.
